@@ -1,0 +1,2 @@
+sinema rezervasyon projesinin tasarımı incelendi ve gerekli haritalandırma yapıldı
+#SinemaRezervasyonProjesi# JS_SINEMAREZERVASYON
